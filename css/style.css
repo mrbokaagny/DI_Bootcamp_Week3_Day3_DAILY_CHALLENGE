@@ -1,0 +1,12 @@
+.container{
+    position: relative;
+    width: 100%;
+    padding: .5em;
+}
+
+input{
+    border-radius: .3em;
+    padding: .3em;
+    height: 35px;
+    outline: none;
+}
